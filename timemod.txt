@@ -1,0 +1,579 @@
+Abidjan, Cote d'Ivoire#  GMT+00:00
+Abu Dhabi, United Arab Emirates#  GMT+04:00
+Abuja, Nigeria#  GMT+01:00
+Accra, Ghana#  GMT+00:00
+Adak, Alaska,  USA(United States of America)#  GMT-09:00
+Adamstown, Pitcairn Islands#  GMT-08:00
+Addis Ababa, Ethiopia#  GMT+03:00
+Adelaide, Australia#  GMT+09:30
+Algiers, Algeria#  GMT+01:00
+Alice Springs, Australia#  GMT+09:30
+Almaty, Kazakhstan#  GMT+06:00
+Alofi, Niue#  GMT-11:00
+Amman, Jordan#  GMT+03:00
+Amsterdam, Netherlands#  GMT+02:00
+Amundsen-Scott Station, Antarctica#  GMT+12:00
+Anadyr, Russia#  GMT+12:00
+Andorra la Vella, Andorra#  GMT+02:00
+Ankara, Turkey#  GMT+03:00
+Ann Arbor,  USA (United States of America)#  GMT-04:00
+Antananarivo, Madagascar#  GMT+03:00
+Antofagasta, Chile#  GMT-04:00
+Apia, Samoa#  GMT+13:00
+Aqtau, Kazakhstan#  GMT+05:00
+Aqtobe, Kazakhstan#  GMT+05:00
+Araguaini, Brazil#  GMT-03:00
+Arequipa, Peru#  GMT-05:00
+Ashgabat, Turkmenistan#  GMT+05:00
+Ashkhabad, Turkmenistan#  GMT+05:00
+Asmara, Eritrea#  GMT+03:00
+Asuncion, Paraguay#  GMT-04:00
+Athens, Greece#  GMT+03:00
+Atikokan, Nunavut (Canada) #  GMT-05:00
+Atlanta, Georgia,  USA -(United States of America)#  GMT-04:00
+Auckland, New Zealand#  GMT+12:00
+Austin, Texas,  USA(United States of America)#  GMT-05:00
+Avarau, Cook Islands#  GMT-10:00
+Baghdad, Iraq#  GMT+03:00
+Baker Island,  USA(United States of America)#  GMT-12:00
+Baku, Azerbaijan#  GMT+04:00
+Baltimore, Maryland, USA(United States of America)#  GMT-04:00
+Baltra, Galapagos Islands (Ecuador)#  GMT-06:00
+Bamako, Mali#  GMT+00:00
+Bandar Seri Begawan, Brunei#  GMT+08:00
+Bangkok, Thailand#  GMT+07:00
+Bangui, Central African Republic#  GMT+01:00
+Banjul, Gambia#  GMT+00:00
+Barcelona, Spain#  GMT+02:00
+Bari, Italy#  GMT+02:00
+Basse-Terre, Guadeloupe#  GMT-04:00
+Basseterre, Saint Kitts and Nevis#  GMT-04:00
+Beijing, China#  GMT+08:00
+Beira, Mozambique#  GMT+02:00
+Beirut, Lebanon#  GMT+03:00
+Belem, Brazil#  GMT-03:00
+Bern, Switzerland#  GMT+02:00
+Beulah, USA(United States of America)#  GMT-05:00
+Belfast, Northern Ireland#  GMT+01:00
+Belgrade, Serbia#  GMT+02:00
+Belmopan, Belize#  GMT-06:00
+Belo Horizonte, Brazil#  GMT-03:00
+Bengaluru, India#  GMT+05:30
+Benghazi, Libya#  GMT+02:00
+Berlin, Germany#  GMT+02:00
+Bishkek, Kyrgyzstan#  GMT+06:00
+Bissau, Guinea-Bissau#  GMT+00:00
+Black Rock, USA(United States of America)#  GMT-07:00
+Blanc-Sablon, Canada#  GMT-04:00
+Blantyre, Malawi#  GMT+02:00
+Boa Vista, Brazil#  GMT-04:00
+Bogota, Colombia#  GMT-05:00
+Boise, Idaho, USA(United States of America)#  GMT-06:00
+Bologna, Italy#  GMT+02:00
+Boston, Massachusetts, USA(United States of America)#  GMT-04:00
+Boulder, Colorado, USA(United States of America)#  GMT-06:00
+Brasilia, Brazil#  GMT-03:00
+Bratislava, Slovakia#  GMT+02:00
+Brazzaville, Congo#  GMT+01:00
+Bridgetown, Barbados#  GMT-04:00
+Brisbane, Australia#  GMT+10:00
+Broken Hill, Australia#  GMT+09:30
+Brussels, Belgium#  GMT+02:00
+Bucharest, Romania#  GMT+03:00
+Budapest, Hungary#  GMT+02:00
+Buenos Aires, Argentina#  GMT-03:00
+Bujumbura, Burundi#  GMT+02:00
+Cairo, Egypt#  GMT+02:00
+Calgary,Alberta,Canada#  GMT-06:00
+Cambridge, USA(United States of America)#  GMT-04:00
+Campo Grande, Brazil#  GMT-04:00
+Canary Islands, Spain#  GMT+01:00
+Canberra, Australia#  GMT+10:00
+Cancun, Mexico#  GMT-05:00
+Cape Town, South Africa#  GMT+02:00
+Caracas, Venezuela#  GMT-04:00
+Casablanca, Morocco#  GMT+00:00
+Casey Station, Bailey Peninsula, Antarctica#  GMT+11:00
+Castries, Saint Lucia#  GMT-04:00
+Catamarca, Argentina#  GMT-03:00
+Catanzaro, Italy#  GMT+02:00
+Cayenne, French Guiana#  GMT-03:00
+Center, USA(United States of America)#  GMT-05:00
+Ceuta, Spain#  GMT+02:00
+Charlotte Amalie, U.S. Virgin Islands#  GMT-04:00
+Charlotte, North Carolina, USA(United States of America)#  GMT-04:00
+Chatham Islands, New Zealand#  GMT+12:45
+Chengdu#  GMT+08:00
+Chennai, India#  GMT+05:30
+Chicago,  Illinois, USA(United States of America)#  GMT-05:00
+Chihuahua, Mexico#  GMT-06:00
+Chisinau, Moldova#  GMT+03:00
+Chita, Russia#  GMT+09:00
+Choibalsan, Mongolia#  GMT+08:00
+Chongqing#  GMT+08:00
+Cincinnati,  Ohio, USA(United States of America) #  GMT-04:00
+Cleveland,  Ohio, USA(United States of America)#  GMT-04:00
+Cockburn Town, Turks and Caicos Islands#  GMT-04:00
+Coeur d Alene, Idaho, USA(United States of America)#  GMT-07:00
+Colombo, Sri Lanka#  GMT+05:30
+Columbus,  Ohio, USA(United States of America)#  GMT-04:00
+Conakry, Guinea#  GMT+00:00
+Copenhagen, Denmark#  GMT+02:00
+Cordoba, Argentina#  GMT-03:00
+Cork, Ireland #   GMT+01:00
+Costa Rica, Republic of Costa Rica#  GMT-06:00
+Crotone, Italy#  GMT+02:00
+Cuiaba, Brazil#  GMT-04:00 
+Currie, Australia#  GMT+10:00
+Dakar, Senegal#  GMT+00:00
+Dalian#  GMT+08:00
+Dallas, Texas, USA(United States of America)#  GMT-05:00
+Damascus, Syria#   GMT+03:00
+Danmarkshavn, Greenland#  GMT+00:00
+Dar es Salaam, Tanzania#  GMT+03:00
+Darwin, Australia#  GMT+09:30
+Davis Station, Vestfold Hills, Antarctica#  GMT+07:00
+Dawson Creek, Canada#  GMT-07:00
+Delhi, India#  GMT+05:30
+Denver, Colorado, USA(United States of America)#  GMT-06:00
+Derby, Australia#  GMT+08:00
+Detroit,  Michigan, USA(United States of America)#  GMT-04:00
+Dhaka, Bangladesh#  GMT+06:00
+Diego Garcia, Chagos Archipelago UK (United Kingdom)#  GMT+06:00
+Dili, Timor-Leste (East Timor) #  GMT+09:00
+Djibouti, Djibouti#  GMT+03:00
+Doha, Qatar#  GMT+03:00
+Douala, Cameroon#  GMT+01:00
+Douglas, Isle of Man#  GMT+01:00
+Dubai, UAE#  GMT+04:00
+Dublin, Ireland#  GMT+01:00
+Dumont-d'Urville Base, Terre Adelie, Antarctica#  GMT+10:00
+Durban, South Africa#  GMT+02:00
+Dushanbe, Tajikistan#  GMT+05:00
+Edinburgh, Scotland#  GMT+01:00
+Edmonton, Alberta, Canada#  GMT-06:00
+Efate, Vanuatu#  GMT+11:00
+Eirunepe, Brazil#  GMT-05:00
+El Aaiun, Western Sahara#  GMT+00:00
+El Paso, Texas, USA(United States of America)#  GMT-06:00
+Enderbury Island, Phoenix Islands UK (United Kingdom) #  GMT+13:00
+Eucla, Australia#  GMT+08:45
+Florence, Italy#  GMT+02:00
+Flying Fish Cove, Christmas Island#  GMT+07:00
+Fort St. John, British Columbia, Canada#  GMT-07:00
+Fort-de-France, Martinique#  GMT-04:00
+Fortaleza, Brazil#  GMT-03:00
+Frankfort, Kentucky, USA(United States of America)#  GMT-04:00
+Frankfurt, Germany#  GMT+02:00
+Freetown, Sierra Leone#  GMT+00:00
+Funafuti, Tuvalu#  GMT+12:00
+Funchal, Madeira Islands (Portugal)#  GMT+01:00
+Gaborone, Botswana#  GMT+02:00
+Galapagos Islands, Ecuador#  GMT-06:00
+Gambier Island, French Guiana#  GMT-09:00
+Gaza, Palestinian territory#  GMT+03:00
+Geneva, Switzerland#  GMT+02:00
+Genoa, Italy#  GMT+02:00
+George Town, Grand Cayman UK (United Kingdom)#  GMT-05:00
+Georgetown, Guyana#  GMT-04:00
+Gibraltar#  GMT+02:00
+Glace Bay, Canada#  GMT-03:00
+Grand Terre, Kerguelen Islands (France) #  GMT+05:00
+Green Bay, USA(United States of America) #  GMT-05:00
+Guadalajara, Mexico#  GMT-05:00
+Guam, Guam#  GMT+10:00
+Guangzhou , China#  GMT+08:00
+Guatemala City, Guatemala#  GMT-06:00
+Guayaquil, Ecuador#  GMT-05:00
+Hagatna, Guam#  GMT+10:00
+Haifa, Israel#  GMT+03:00
+Halifax, Nova Scotia, Canada#  GMT-03:00
+Hamburg, Germany#  GMT+02:00
+Hamilton, Bermuda#  GMT-03:00
+Hanoi, Vietnam#  GMT+07:00
+Happy Valley-Goose Bay, Canada#  GMT-03:00
+Harare, Zimbabwe#  GMT+02:00
+Harbin#  GMT+08:00
+Havana, Cuba#  GMT-04:00
+Hebron, Palestinian Territories#  GMT+03:00
+Hefei , China#  GMT+08:00
+Helsinki, Finland#  GMT+03:00
+Herat, Afghanistan#  GMT+04:30
+Hermosillo, Mexico#  GMT-07:00
+Ho Chi Minh, Vietnam#  GMT+07:00
+Hobart, Tasmania#  GMT+10:00
+Hong Kong#  GMT+08:00
+Honiara, Solomon Islands#  GMT+11:00
+Honolulu, USA(United States of America)#  GMT-10:00
+Houston, USA(United States of America)#  GMT-05:00
+Hovd, Mongolia#  GMT+07:00
+Hyderabad, India#  GMT+05:30
+Indianapolis,  Indiana, USA(United States of America)#  GMT-04:00
+Inuvik, Northwest Territories (Canada)#  GMT-06:00
+Iqaluit, Canada#  GMT-04:00
+Iqaluktuttiaq (Cambridge Bay), Nunavut (Canada)#  GMT-06:00
+Iquique, Chile#  GMT-04:00
+Iquitos, Peru#  GMT-05:00
+Irkutsk, Russia#  GMT+08:00
+Islamabad, Pakistan#  GMT+05:00
+Isle Of Man, UK (United Kingdom)#  GMT+01:00
+Istanbul, Turkey#  GMT+03:00
+Jacksonville,  Florida, USA(United States of America)#  GMT-04:00
+Jakarta, Indonesia#  GMT+07:00
+Jamestown, Saint Helena#  GMT+00:00
+Jayapura, Indonesia#  GMT+09:00
+Jerusalem, Israel#  GMT+03:00
+Johannesburg, South Africa#  GMT+02:00
+Johnston Atoll, USA(United States of America)#  GMT-10:00
+Jujuy, Argentina#  GMT-03:00
+Juneau, Alaska, USA(United States of America)#  GMT-08:00
+Kabul, Afghanistan#  GMT+04:30
+Kagoshima, Japan#  GMT+09:00
+Kaliningrad, Russia#  GMT+02:00
+Kampala, Uganda#  GMT+03:00
+Kandla, India#  GMT+05:30
+Kano, Nigeria#  GMT+01:00
+Karachi, Pakistan#  GMT+05:00
+Kashgar, China#  GMT+06:00
+Kathmandu, Nepal#  GMT+05:45
+Khartoum, Sudan#  GMT+02:00
+Kiev, Ukraine#  GMT+03:00
+Kigali, Rwanda#  GMT+02:00
+Kingston, Jamaica#  GMT-05:00
+Kingston, Norfolk Island#  GMT+11:00
+Kingstown, Saint Vincent and the Grenadines#  GMT-04:00
+Kinshasa, Democratic Republic of the Congo#  GMT+01:00
+Kirkland, USA(United States of America)#  GMT-07:00
+Kisangani, Democratic Republic of the Congo#  GMT+01:00
+Knox, Indiana, USA(United States of America)#  GMT-05:00
+Knoxville, USA(United States of America)#  GMT-04:00
+Kolkata, India#  GMT+05:30
+Kosrae, Micronesia#  GMT+11:00
+Kota Bharu, Malaysia#  GMT+08:00
+Kota Kinabalu, Malaysia#  GMT+08:00
+Krakow, Poland#  GMT+02:00
+Krasnodar, Russia#  GMT+03:00
+Krasnoyarsk, Russia#  GMT+07:00
+Kuala Lumpur, Malaysia#  GMT+08:00
+Kuching, Malaysia#  GMT+08:00
+Kunming , China#  GMT+08:00
+Kuwait City, Kuwait#  GMT+03:00
+Kwajalein Atoll, Marshall Islands#  GMT+12:00
+La Paz, Bolivia#  GMT-04:00
+La Rioja, Argentina#  GMT-03:00
+Lagos, Nigeria#  GMT+01:00
+Lahore, Pakistan#  GMT+05:00
+Las Vegas, Nevada, USA(United States of America)#  GMT-07:00
+Lhasa, China#  GMT+06:00
+Libreville, Gabon#  GMT+01:00
+Lilongwe, Malawi#  GMT+02:00
+Lima, Peru#  GMT-05:00
+Lindeman Island, Australia#  GMT+10:00
+Lindi, Tanzania#  GMT+03:00
+Lisbon, Portugal#  GMT+01:00
+Little Rock, Arkanas, USA(United States of America)#  GMT-05:00
+Ljubljana, Slovenia#  GMT+02:00
+Lome, Togo#  GMT+00:00
+London, England#  GMT+01:00
+Longyearbyen, Norway#  GMT+02:00
+Lord Howe Island, Australia#  GMT+10:30
+Los Angeles, California, USA(United States of America)#  GMT-07:00
+Louisville, Kentucky, USA(United States of America)#  GMT-04:00
+Luanda, Angola#  GMT+01:00
+Lubumbashi, Democratic Republic of the Congo#  GMT+02:00
+Luderitz, Namibia#  GMT+02:00
+Lusaka, Zambia#  GMT+02:00
+Luxembourg, Luxembourg#  GMT+02:00
+Lyons, France#  GMT+02:00
+Macao , China#  GMT+08:00
+Maceio, Brazil#  GMT-03:00
+Madison,  Wisconsin, USA(United States of America)#  GMT-05:00
+Madrid, Spain#  GMT+02:00
+Majuro, Marshall Islands#  GMT+12:00
+Makassar, Indonesia#  GMT+08:00
+Malabo, Equatorial Guinea#  GMT+01:00
+Male, Maldives#  GMT+05:00
+Mamoudzou, Mayotte #  GMT+03:00
+Managua, Nicaragua#  GMT-06:00
+Manama, Bahrain#  GMT+03:00
+Manaus, Brazil#  GMT-04:00
+Manchester, England#  GMT+01:00
+Mandalay, Myanmar#  GMT+06:30
+Manila, Philippines#  GMT+08:00
+Maputo, Mozambique#  GMT+02:00
+Marengo, USA(United States of America)#  GMT-04:00
+Mariehamn, Finland#  GMT+03:00
+Marseilles, France#  GMT+02:00
+Maseru, Lesotho#  GMT+02:00
+Mata-Utu, Wallis and Futuna #   GMT+12:00
+Mawson Station, Holme Bay, Antarctica#  GMT+05:00
+Mazatlan, Mexico#  GMT-06:00
+Mbabane, Swaziland#  GMT+02:00
+McMurdo Station, Ross Island, Antarctica#  GMT+12:00
+Mecca, Saudi Arabia#  GMT+03:00
+Melbourne, Australia#  GMT+10:00
+Melekeok, Palau#  GMT+09:00
+Memphis, Tennessee, USA(United States of America)#  GMT-05:00
+Mendoza, Argentina#  GMT-03:00
+Merida, Mexico#  GMT-05:00
+Messina, Italy#  GMT+02:00
+Metlakatla, USA(United States of America)#  GMT-08:00
+Mexico City, Mexico#   GMT-05:00
+Mgadan, Russia#  GMT+11:00
+Miami, Florida, USA(United States of America) #  GMT-04:00
+Midway Atoll, USA(United States of America)#  GMT-11:00
+Milan, Italy , #  GMT+02:00
+Milwaukee, Wisconsin, USA(United States of America)#  GMT-05:00
+Minneapolis, Minnesota, USA(United States of America)#  GMT-05:00
+Minsk, Belarus#  GMT+03:00
+Mogadishu, Somalia#  GMT+03:00
+Monaco, Monaco#  GMT+02:00
+Moncton, New Brunswick, Canada # GMT-03:00
+Monominee, Michigan, USA(United States of America) #   GMT-05:00
+Monrovia, Liberia#  GMT+00:00
+Monterrey, Mexico#  GMT-05:00
+Montevideo, Uruguay#  GMT-03:00
+Monticello,  Kentucky, USA(United States of America)#  GMT-04:00
+Montpelier,Vermont, USA(United States of America)#  GMT-04:00
+Montreal, Quebec, Canada#  GMT-04:00
+Moroni, Comoros#  GMT+03:00
+Moscow, Russia#  GMT+03:00
+Mountain View, USA(United States of America) #  GMT-07:00
+Mumbai, India#  GMT+05:30
+Munich, Germany#  GMT+02:00
+Muscat, Oman#  GMT+04:00
+Nadi, Fiji#  GMT+12:00
+Nagasaki, Japan#  GMT+09:00
+Nagoya, Japan #  GMT+09:00
+Nagpur, India#  GMT+05:30
+Nairobi, Kenya#  GMT+03:00
+Namibe, Angola#  GMT+01:00
+Nanjing#  GMT+08:00
+Naples, Italy#  GMT+02:00
+Nashville, Tennessee, USA(United States of America)#  GMT-05:00
+Nassau, Bahamas#  GMT-04:00
+Naters, Switzerland#  GMT+02:00
+Nauru, Micronesia#  GMT+12:00
+Ndjamena, Chad#  GMT+01:00
+New Delhi, India#  GMT+05:30
+New Orleans, Louisiana, USA(United States of America)#  GMT-05:00
+New Salem, USA(United States of America)#  GMT-05:00
+New South Wales , Australia#  GMT+10:00
+New York, USA(United States of America)#  GMT-04:00
+Newman, Australia#  GMT+08:00
+Niamey, Niger#  GMT+01:00
+Nicosia, Cyprus#  GMT+03:00
+Nipigon, Ontario, Canada#   GMT-04:00
+Nome, USA(United States of America)#  GMT-08:00
+Noronha, Brazil#  GMT-02:00
+Nouakchott, Mauritania#  GMT+00:00
+Novosibirsk, Russia#  GMT+07:00
+Nuku'alofa, Tonga#  GMT+13:00
+Nur-Sultan, Kazakhstan#  GMT+06:00
+Odessa, Ukraine#  GMT+03:00
+Oklahoma City, USA(United States of America)#  GMT-05:00
+Noumea, New Caledonia#  GMT+11:00
+Omsk, Russia#  GMT+06:00
+Omsk, Russia#  GMT+06:00
+Oral, Kazakhstan#  GMT+05:00
+Oranjestad, Aruba#  GMT-04:00
+Osaka, Japan#  GMT+09:00
+Oslo, Norway#  GMT+02:00
+Ottawa, Ontario, Canada#  GMT-04:00
+Ouagadougou, Burkina Faso#  GMT+00:00
+Oulu, Finland#  GMT+03:00
+Pago Pago, American Samoa#  GMT-11:00
+Palermo, Italy#  GMT+02:00
+Palikir, Micronesia#  GMT+11:00
+Palmer Station, Antarctica#  GMT-03:00
+Panama City, Panama#  GMT-05:00
+Pangnirtung, Canada #  GMT-04:00
+Papeete, French Polynesia#  GMT-10:00
+Paramaribo, Suriname#  GMT-03:00
+Paris, France#  GMT+02:00
+Penang, Malaysia#  GMT+08:00
+Perth, Australia#  GMT+08:00
+Petersburg, Indiana, USA(United States of America)#  GMT-04:00
+Petropavl, Kazakhstan #  GMT+06:00
+Petropavlovsk-Kamchatsky, Russia #  GMT+12:00
+Philadelphia, Pennsylvania, USA(United States of America)#  GMT-04:00
+Phnom Penh, Cambodia#  GMT+07:00
+Phoenix,  Arizona, USA(United States of America)#  GMT-07:00
+Pittsburgh, Pennsylvania[, USA(United States of America)#  GMT-04:00
+Plymouth, England#  GMT+01:00
+Plymouth, Montserrat#  GMT-04:00
+Podgorica, Montenegro#  GMT+02:00
+Pointe Noire, Republic of the Congo#  GMT+01:00
+Ponta Delgada, Azores (Portugal) #  GMT+00:00
+Pontianak, Indonesia#  GMT+07:00
+Port Elizabeth, South Africa#  GMT+02:00
+Port Louis, Mauritius#  GMT+04:00
+Port Moresby, Papua New Guinea#  GMT+10:00
+Port Vila, Vanuatu#  GMT+11:00
+Port of Spain, Trinidad and Tobago#  GMT-04:00
+Port-au-Prince, Haiti#  GMT-04:00
+Portland, Oregon, USA(United States of America)#  GMT-07:00
+Porto Velho, Brazil#  GMT-04:00
+Porto-Novo, Benin#  GMT+01:00
+Prague, Czech Republic#  GMT+02:00
+Praia, Cape Verde#  GMT-01:00
+Pretoria, South Africa#  GMT+02:00
+Pyongyang, DPRK (North Korea)#  GMT+09:00
+Qingdao#  GMT+08:00
+Quebec, Quebec, Canada#  GMT-04:00
+Queensland, Australia#  GMT+10:00
+Quito, Ecuador#  GMT-05:00
+Qyzylorda, Kazakhstan#  GMT+05:00
+Rabat, Morocco#  GMT+00:00
+Rankin Inlet, Canada#  GMT-05:00
+Rarotonga, Cook Islands#  GMT-10:00
+Recife, Brazil#  GMT-03:00
+Regina, Saskatchewan, Canada#  GMT-06:00
+Reno, Nevada, USA(United States of America) #  GMT-07:00
+Reston, USA(United States of America) #   GMT-04:00
+Reykjavik, Iceland#  GMT+00:00
+Riga, Latvia#  GMT+03:00
+Rio Branco, Brazil#  GMT-05:00
+Rio Gallegos, Argentina#  GMT-03:00
+Rio de Janeiro, Brazil#  GMT-03:00
+Riyadh, Saudi Arabia#  GMT+03:00
+Road Town, British Virgin Islands#  GMT-04:00
+Rome, Italy#  GMT+02:00
+Roseau, Dominica#  GMT-04:00
+Rothera Station, Adelaide Island, Antarctica#  GMT-03:00
+Sacramento, California, USA(United States of America)#  GMT-07:00
+Saint George's, Grenada#  GMT-04:00
+Saint Helier, Jersey # GMT+01:00
+Saint Peter Port, Guernsey#  GMT+01:00
+Saint Pierre, Saint-Pierre and Miquelon#  GMT-02:00
+Saint-Denis, Reunion Island#  GMT+04:00
+Saipan, Northern Mariana Islands (US) #  GMT+10:00
+Salalah, Oman#  GMT+04:00
+Salem, Oregon, USA(United States of America) #   GMT-07:00
+Salt Lake City, USA(United States of America)#  GMT-06:00
+Salvador, Brazil#  GMT-03:00
+Salalah, Oman#  GMT+04:00
+Salem, Oregon, USA(United States of America)#  GMT-07:00
+Salt Lake City, USA(United States of America)#  GMT-06:00
+Salvador, Brazil#  GMT-03:00
+Samara, Russia#  GMT+04:00
+San Antonio, Texas, USA(United States of America)#  GMT-05:00
+San Diego, California, USA(United States of America)#  GMT-07:00
+Samarkand, Uzbekistan#  GMT+05:00
+San Francisco, California, USA(United States of America)#  GMT-07:00
+San Jose, USA(United States of America)#  GMT-07:00
+San Juan, Argentina#  GMT-03:00
+San Juan, USA(United States of America) #  GMT-04:00
+San Marino, San Marino#  GMT+02:00
+San Salvador, El Salvador#  GMT-06:00
+Sanaa, Yemen#  GMT+03:00
+Santa Cruz de Tenerife, Canary Islands (Spain) #  GMT+01:00
+Santarem, Brazil#  GMT-04:00
+Santiago, Chile#  GMT-04:00
+Santo Domingo, Dominican Republic#  GMT-04:00
+Sao Paulo, Brazil#  GMT-03:00
+Sao Tome, Sao Tome and Principe#  GMT+00:00
+Sapporo, Japan#  GMT+09:00
+Sarajevo, Bosnia and Herzegovina GMT+02:00
+Saskatoon, Saskatchewan, Canada#  GMT-06:00
+Seattle, Washington, USA(United States of America)#  GMT-07:00
+Seoul, Republic of Korea#  GMT+09:00
+Shanghai , China#  GMT+08:00
+Shenyang , China#  GMT+08:00
+Shenzhen , China#  GMT+08:00
+Shiprock, USA(United States of America)#  GMT-06:00
+Simferopol, Ukraine#  GMT+03:00
+Singapore, Singapore#  GMT+08:00
+Skopje, Former Yugoslav Republic of Macedonia #  GMT+02:00
+Sofia, Bulgaria#  GMT+03:00
+South Georgia and the South Sandwich Islands #  GMT-02:00
+St. John's, Antigua and Barbuda#  GMT-04:00
+St. John's-NL, Canada#  GMT-02:30
+St. Louis, Missouri, USA(United States of America)#  GMT-05:00
+St. Petersburg, Russia#  GMT+03:00
+Stanley, Falkland Islands#  GMT-03:00
+Stockholm, Sweden#  GMT+02:00
+Suva, Fiji#  GMT+12:00
+Swift Current, Saskatchewan, Canada#  GMT-06:00
+Sydney, Australia#  GMT+10:00
+Syowa Station, East Ongul Island, Antarctica#  GMT+03:00
+T'bilisi, Georgia #   GMT+04:00
+Tahiti, French Polynesia#  GMT-10:00
+Tai o Hae, Marquesas Islands#  GMT-09:30
+Taipei#  GMT+08:00
+Tallinn, Estonia#  GMT+03:00
+Tampa, USA(United States of America)#  GMT-04:00
+Tananarive, Madagascar#  GMT+03:00
+Tarawa, Kiribati#  GMT+12:00
+Tashkent, Uzbekistan#  GMT+05:00
+Tegucigalpa, Honduras#  GMT-06:00
+Tehran, Iran #  GMT+04:30
+Tel Aviv, Israel#  GMT+03:00
+Tell City, USA(United States of America)#  GMT-05:00
+The Valley, Anguilla#  GMT-04:00
+Thimphu, Bhutan#  GMT+06:00
+Thule, Greenland (Denmark)#  GMT-03:00
+Thunder Bay,  Ontario, Canada#  GMT-04:00
+Tianjin, China#  GMT+08:00
+Tijuana, Mexico#  GMT-07:00
+Timbuktu, Mali#  GMT+00:00
+Tirane, Albania#  GMT+02:00
+Tokyo, Japan#  GMT+09:00
+Tombouctou, Mali#  GMT+00:00
+Toronto,  Ontario, Canada#  GMT-04:00
+Torshavn, Faroe Islands#  GMT+01:00
+Tortola, British Virgin Islands#  GMT-04:00
+Townsville, Australia#  GMT+10:00
+Trehet, France#  GMT+02:00
+Tripoli, Libya#  GMT+02:00
+Truk, Federated States of Micronesia#  GMT+10:00
+Tucson,  Arizona, USA(United States of America)#  GMT-07:00
+Tucuman, Argentina#  GMT-03:00
+Tunis, Tunisia#  GMT+01:00
+Turin, Italy#  GMT+02:00
+UTC#  GMT+00:00
+Ulaanbaatar, Mongolia#  GMT+08:00
+Urumqi#  GMT+06:00
+Ushuaia, Argentina#  GMT-03:00
+Vaduz, Liechtenstein#  GMT+02:00
+Valletta, Malta#  GMT+02:00
+Vancouver, British Columbia, Canada#  GMT-07:00
+Vatican City#  GMT+02:00
+Verona, Italy#  GMT+02:00
+Vevay, USA(United States of America)#  GMT-04:00
+Victoria, Seychelles#  GMT+04:00
+Vienna, Austria#  GMT+02:00
+Vientiane, Laos#  GMT+07:00
+Vilnius, Lithuania#  GMT+03:00
+Vincennes, Indiana, USA(United States of America)#  GMT-04:00
+Vladivostok, Russia#  GMT+10:00
+Volgograd, Russia#  GMT+03:00
+Vostok Station, Antarctica#  GMT+06:00
+Waitangi, Chatham Islands, New Zealand#  GMT+12:45
+Wake Island, U.S. Minor Outlying Islands#  GMT+12:00
+Warsaw, Poland#  GMT+02:00
+Washington, DC, USA(United States of America) # GMT-04:00
+Wellington, New Zealand#  GMT+12:00
+West Island, Cocos Islands#  GMT+06:30
+Whitehorse,  Yukon, Canada#  GMT-07:00
+Willemstad, Netherlands Antilles#  GMT-04:00
+Winamac, USA(United States of America) #  GMT-04:00
+Windhoek, Namibia#  GMT+02:00
+Winnipeg, Manitoba, Canada#  GMT-05:00
+Wroclaw, Poland#  GMT+02:00
+Wuhan , China#  GMT+08:00
+Xining, China#  GMT+08:00
+Yakutat, Alaska, USA(United States of America)#  GMT-08:00
+Yakutat, USA(United States of America)#  GMT-08:00
+Yakutsk, Russia#  GMT+09:00
+Yamoussoukro, Cote d'Ivoire#  GMT+00:00
+Yangon, Myanmar#  GMT+06:30
+Yaounde, Cameroon#  GMT+01:00
+Yaren, Nauru#  GMT+12:00
+Yekaterinburg, Russia#  GMT+05:00
+Yellowknife, Northwest Territories#  GMT-06:00
+Yerevan, Armenia#  GMT+04:00
+Yuma,  Arizona, USA(United States of America)#  GMT-07:00
+Zagreb, Croatia#  GMT+02:00
+Zanzibar, Tanzania #  GMT+03:00
+Zurich, Switzerland#  GMT+02:00
