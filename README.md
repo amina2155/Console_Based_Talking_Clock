@@ -8,4 +8,4 @@ A very first work on my programming life. Tried to make a console based clock us
 <img width="430" alt="2" src="https://github.com/amina2155/Console_Based_Talking_Clock/assets/98386611/cea83360-ea9a-454d-a0d3-3ffa0dbc0ddc">
 
 
-<img width="359" alt="3" src="https://github.com/amina2155/Console_Based_Talking_Clock/assets/98386611/5ca0a52e-7807-450b-a490-c3125e4f58b7">
+<img width="430" alt="4" src="https://github.com/amina2155/Console_Based_Talking_Clock/assets/98386611/e53de805-2510-4f10-9b18-5b9bcfda0702">
